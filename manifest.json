@@ -1,0 +1,48 @@
+
+  {
+  	"name": "Jasa Sablon Jogja",
+  "short_name": "Jasa Sablon",
+  "start_url": "https://jasasablonkaosmurah.com",
+  "display": "standalone",
+  "background_color": "#03ac0e",
+  "theme_color": "#03ac0e",
+  "description": "Konveksi dan Jasa Sablon Murah Di Jogja",
+  "icons": [
+  	{
+    "src": "https://1.bp.blogspot.com/-XnOmVFsfgh0/XuMVLnoBXSI/AAAAAAAAA0o/taz9KUS2tbMn33gBtTB8ftnzW2UOgBI_gCK4BGAsYHg/d/logos48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, 
+  {
+    "src": "https://1.bp.blogspot.com/-6CTJRtvOSKI/XuMXNYW6uSI/AAAAAAAAA1w/tG2FiePPG5QiK9ng2JAZF0Y3rwOTDCgCgCK4BGAsYHg/s72/logos72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, 
+  {
+    "src": "https://1.bp.blogspot.com/-7HKPculQjfE/XuMVRULSJAI/AAAAAAAAA04/-F-O5zOZwAk4MHNS3nwfa0EC00r_O69eQCK4BGAsYHg/d/logos96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, 
+  {
+    "src": "https://1.bp.blogspot.com/-Kbj1PyXpjcg/XuMVGbdR7tI/AAAAAAAAA0c/rVzH1DN3NCYJxAGl1xgIlDiBivz24UBJACK4BGAsYHg/s144/logos144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, 
+  {
+    "src": "https://1.bp.blogspot.com/-_25rpi1C3_M/XuMXqFHRxKI/AAAAAAAAA2E/6vqUwx7n7jEeB1aMuhUCSGN_ON-2M3X2QCK4BGAsYHg/d/logos167.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, 
+  {
+    "src": "https://1.bp.blogspot.com/-nc-sLvNb2pU/XuMVCCoGjhI/AAAAAAAAA0Q/ZlAotkhUNb8h_hXYlcriv2SW4hziY6_XgCK4BGAsYHg/d/logos191.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, 
+  {
+    "src": "https://1.bp.blogspot.com/-kVGKYni4d30/XuMU8ib0B9I/AAAAAAAAA0E/hcSKpGo4XnMi7qMsnkEgpkomigVBlge6gCK4BGAsYHg/d/logo512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+]
+}
+
